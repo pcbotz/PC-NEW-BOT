@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
-    "repository": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
+    "website": "https://github.com/pcbotz/PC-NEW-BOT",
+    "repository": "https://github.com/pcbotz/PC-NEW-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
